@@ -1,2 +1,3 @@
 # Dosya 3
 Login sorunu düzenlemesinin ikinci kısmı da bu dosyada....
+remotes diğer değişiklik

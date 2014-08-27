@@ -1,2 +1,3 @@
 # Dosya 1
-başka bir değişiklik
+başka bir değişiklik.
+remotes
