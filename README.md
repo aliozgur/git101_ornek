@@ -1,2 +1,2 @@
-git101_ornek
+Git 101 Kitabı örnek repository
 ============
