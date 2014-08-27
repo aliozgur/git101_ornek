@@ -1,2 +1,4 @@
 # Dosya 1
-başka bir değişiklik
+başkaca bir değişiklik
+
+takım arkadaşımız bu satırı değiştirdi
